@@ -1,3 +1,5 @@
+Make sure to run as admin or menu will not load properly. Also make sure to use net48 or the obfuscation may not work.
+
 <img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/35a70c22-c253-43db-99ae-1635b75cf021" />
 
 <img width="973" height="506" alt="image" src="https://github.com/user-attachments/assets/7069fe04-2c79-4592-8595-7f7a679fc50a" />
